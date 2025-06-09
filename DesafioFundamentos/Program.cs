@@ -52,8 +52,10 @@ while (exibirMenu)
             break;
     }
 
+
     Console.WriteLine("Pressione uma tecla para continuar");
     Console.ReadLine();
+    Console.Clear();
 }
 
 Console.WriteLine("O programa se encerrou");
